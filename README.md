@@ -41,15 +41,27 @@ In this project we had made a maze solving micromouse bot. This bot will follow 
 
 # Prerequisites
   
-  # software used
-  *coppeliasim version-edu 
+# software used
+  * coppeliasim version-edu 
 
   you can download this software over [here](https://www.coppeliarobotics.com/downloads)
   
   you can follow the this link for guide to install it in linux or windows
     <https://www.coppeliarobotics.com/helpFiles/>
   
-#installation
+# installation
 
  1. clone to repo
-  [git link](https://github.com/dushantpanchbhai/sra.git) 
+ [git clone](https://github.com/dushantpanchbhai/sra.git)
+ 
+# Usage
+```
+open then coppeliasim app and load the scenes given in above repository link
+```
+# Result And Demo
+![Bot design](/images/bot 1.png)
+
+
+
+
+
