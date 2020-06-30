@@ -93,8 +93,18 @@ open then coppeliasim app and load the scenes given in above repository link
 1. Mann
 2. Dushant
 3. mithilesh
-4. harsh
-
+4. harsh 
+### Mentors
+1. Dhurva 
+2. Neha
+3. Omkar
+4. Lukesh
+5. Abhinav
+6. Shantanu
+7. saharsh
+8. OmkarBhilare
+9. Preeti
+10. Sanath
 ## Acknowledgements and Resources
 
 * [SRA VJTI](http://sra.vjti.info/) Eklavya 2020 
