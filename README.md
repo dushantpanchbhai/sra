@@ -1,45 +1,48 @@
-# PROJECT TITLE
+## PROJECT TITLE
 
 making a maze solver micromouse which will solve the maze by following the shortest path.
 
-# TABLE OF CONTENT
+## TABLE OF CONTENT
 
 1. About the Project
-    1. Tech Stack
-    2. File Structure
+    1. AIM
+    2. Description    
+    3. Tech Stack
+    4. File Structure
 2. Getting Started
     1. Prerequisites
     2. Installation
-    3. Usage
-3. Results and Demo
-4. Future Work
-5. Contributors
-6. Acknowledgements and Resources
+3. Usage
+4. Results and Demo
+5. Future Work
+6. Contributors
+7. Acknowledgements and Resources
 
-# ABOUT THE PROJECT:
-AIM: 
+## ABOUT THE PROJECT:
+###AIM: 
 To make a maze solving bot with bfs algorithm being implemented
 
-Description: 
+###Description: 
 In this project we had made a maze solving micromouse bot. This bot will follow dfs algorithm. In this the bot will first explore through the maze and then at last predict the shortest path and will follow it.
  
-# TECH STACK
+### TECH STACK
 * Coppeliasim
 
-# File Structure
+### File Structure
 
     .
+    |──images                  #This folder contains images used in readme.md
     ├── dfs algo scene 1.ttt   #This file consist dfs algo implementation in first scene
     ├── dfs algo scene 2.ttt   #This file consist dfs algo implementation in first scene          
     ├── wall following.ttt     #This file consist of wall following algoithm
     ├── README.md 
     └── todo.md                 # If Future developments and current status gets lengthy
     
-# Getting Started
+## Getting Started
 
-# Prerequisites
+### Prerequisites
   
-# software used
+#### software used
   * coppeliasim version-edu 
 
   you can download this software over [here](https://www.coppeliarobotics.com/downloads)
@@ -47,17 +50,17 @@ In this project we had made a maze solving micromouse bot. This bot will follow 
   you can follow the this link for guide to install it in linux or windows
     <https://www.coppeliarobotics.com/helpFiles/>
   
-# installation
+#### installation
 
  1. clone to repo
  link: https://github.com/dushantpanchbhai/sra.git
  [git clone](https://github.com/dushantpanchbhai/sra.git)
  
-# Usage
+## Usage
 ```
 open then coppeliasim app and load the scenes given in above repository link
 ```
-# Result And Demo
+## Result And Demo
 * bot design for dfs algo
 
 ![Bot design](/images/bot1.png)
@@ -74,7 +77,7 @@ open then coppeliasim app and load the scenes given in above repository link
 
 ![maze 2](/images/maze2.png)
 
-# Future Work
+## Future Work
 
 * See [todo.md](/todo.md) for seeing developments of this project
 
@@ -84,19 +87,14 @@ open then coppeliasim app and load the scenes given in above repository link
 - [ ] Task 4
 - [ ] Task 5
 
-# Contributors 
+## Contributors 
 
 1. Mann
 2. Dushant
 3. mithilesh
 4. harsh
 
-# Acknowledgements and Resources
+## Acknowledgements and Resources
 
 * [SRA VJTI](http://sra.vjti.info/) Eklavya 2020 
-
-
-
-
-
 
