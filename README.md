@@ -57,9 +57,10 @@ In this project we had made a maze solving micromouse bot. This bot will follow 
  [git clone](https://github.com/dushantpanchbhai/sra.git)
  
 ## Usage
-```
+
 open then coppeliasim app and load the scenes given in above repository link
-```
+
+
 ## Result And Demo
 * bot design for dfs algo
 
