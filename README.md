@@ -36,7 +36,7 @@ In this project we had made a maze solving micromouse bot. This bot will follow 
     ├── dfs algo scene 2.ttt   #This file consist dfs algo implementation in first scene          
     ├── wall following.ttt     #This file consist of wall following algoithm
     ├── README.md 
-    └── todo.md                 # If Future developments and current status gets lengthy
+    └── todo.md                 # todo list
     
 ## Getting Started
 
