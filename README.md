@@ -18,6 +18,7 @@ making a maze solver micromouse which will solve the maze by following the short
 5. Future Work
 6. Contributors
 7. Acknowledgements and Resources
+8. License
 
 ## ABOUT THE PROJECT:
 ### AIM: 
@@ -38,7 +39,7 @@ In this project we had made a maze solving micromouse bot. This bot will follow 
     ├── wall following.ttt     #This file consist of wall following algoithm
     ├── README.md 
     └── todo.md                 # todo list
-    
+    |--license
 ## Getting Started
 
 ### Prerequisites
@@ -115,3 +116,6 @@ youtube link : <https://youtu.be/F3ynhaH-cjE>
 
 * [SRA VJTI](http://sra.vjti.info/) Eklavya 2020 
 
+## License
+
+* this is the [License](/license) for project
