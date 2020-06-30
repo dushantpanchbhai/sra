@@ -59,7 +59,7 @@ In this project we had made a maze solving micromouse bot. This bot will follow 
 open then coppeliasim app and load the scenes given in above repository link
 ```
 # Result And Demo
-![Bot design](/images/bot 1.png)
+![Bot design](/images/bot1.png)
 
 
 
