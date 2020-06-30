@@ -1,4 +1,5 @@
 ## PROJECT TITLE
+##### maze solving bot 
 
 making a maze solver micromouse which will solve the maze by following the shortest path.
 
