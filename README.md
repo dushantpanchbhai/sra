@@ -19,10 +19,10 @@ making a maze solver micromouse which will solve the maze by following the short
 7. Acknowledgements and Resources
 
 ## ABOUT THE PROJECT:
-###AIM: 
+### AIM: 
 To make a maze solving bot with bfs algorithm being implemented
 
-###Description: 
+### Description: 
 In this project we had made a maze solving micromouse bot. This bot will follow dfs algorithm. In this the bot will first explore through the maze and then at last predict the shortest path and will follow it.
  
 ### TECH STACK
