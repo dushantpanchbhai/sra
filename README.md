@@ -72,7 +72,7 @@ open then coppeliasim app and load the scenes given in above repository link
 
 * maze scene 1
 
-![maze](/images/dfs scene 1.mkv)
+![maze](/images/maze1.png)
 
 * maze scene 2
 
