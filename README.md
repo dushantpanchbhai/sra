@@ -52,6 +52,7 @@ In this project we had made a maze solving micromouse bot. This bot will follow 
 # installation
 
  1. clone to repo
+ link: https://github.com/dushantpanchbhai/sra.git
  [git clone](https://github.com/dushantpanchbhai/sra.git)
  
 # Usage
@@ -59,7 +60,42 @@ In this project we had made a maze solving micromouse bot. This bot will follow 
 open then coppeliasim app and load the scenes given in above repository link
 ```
 # Result And Demo
+* bot design for dfs algo
+
 ![Bot design](/images/bot1.png)
+
+* bot design for wall following algo
+
+![Bot design 2](/images/bot2.png)
+
+* maze scene 1
+
+![maze](/images/maze1.png)
+
+* maze scene 2
+
+![maze 2](/images/maze2.png)
+
+# Future Work
+
+* See [todo.md](/todo.md) for seeing developments of this project
+
+- [x] Task 1
+- [x] Task 2
+- [x] Task 3
+- [ ] Task 4
+
+# Contributors 
+
+1. Mann
+2. Dushant
+3. mithilesh
+4. harsh
+
+# Acknowledgements and Resources
+
+* [SRA VJTI](http://sra.vjti.info/) Eklavya 2020 
+
 
 
 
