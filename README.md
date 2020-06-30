@@ -10,13 +10,11 @@ making a maze solver micromouse which will solve the maze by following the short
 2. Getting Started
     1. Prerequisites
     2. Installation
-3. Usage
-4. Results and Demo
-5. Future Work
-6. Troubleshooting
-7. Contributors
-8. Acknowledgements and Resources
-9. License
+    3. Usage
+3. Results and Demo
+4. Future Work
+5. Contributors
+6. Acknowledgements and Resources
 
 # ABOUT THE PROJECT:
 AIM: 
