@@ -118,4 +118,4 @@ youtube link : <https://youtu.be/F3ynhaH-cjE>
 
 ## License
 
-* this is the [License](/license) for project
+* this is the [License](/LICENSE) for project
