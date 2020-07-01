@@ -102,7 +102,7 @@ youtube link : <https://youtu.be/F3ynhaH-cjE>
 3. mithilesh
 4. harsh 
 ### Mentors
-1. Dhurva 
+1. Dhruva 
 2. Neha
 3. Omkar
 4. Lukesh
