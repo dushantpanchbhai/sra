@@ -1,4 +1,5 @@
 ## PROJECT TITLE
+##### maze solving bot 
 
 making a maze solver micromouse which will solve the maze by following the shortest path.
 
@@ -17,6 +18,7 @@ making a maze solver micromouse which will solve the maze by following the short
 5. Future Work
 6. Contributors
 7. Acknowledgements and Resources
+8. License
 
 ## ABOUT THE PROJECT:
 ### AIM: 
@@ -37,7 +39,7 @@ In this project we had made a maze solving micromouse bot. This bot will follow 
     ├── wall following.ttt     #This file consist of wall following algoithm
     ├── README.md 
     └── todo.md                 # todo list
-    
+    |--license
 ## Getting Started
 
 ### Prerequisites
@@ -70,13 +72,18 @@ open then coppeliasim app and load the scenes given in above repository link
 
 ![Bot design 2](/images/bot2.png)
 
-* maze scene 1
+* wall follower scene
 
-![maze](/images/maze1.png)
+youtube link : <https://youtu.be/yTe2L4O4kTQ>
 
-* maze scene 2
+* dfs scene 1
 
-![maze 2](/images/maze2.png)
+youtube link : <https://youtu.be/5XY8LEHnnqk>
+
+* dfs scene 2
+
+youtube link : <https://youtu.be/F3ynhaH-cjE>
+
 
 ## Future Work
 
@@ -95,7 +102,7 @@ open then coppeliasim app and load the scenes given in above repository link
 3. mithilesh
 4. harsh 
 ### Mentors
-1. Dhurva 
+1. Dhruva 
 2. Neha
 3. Omkar
 4. Lukesh
@@ -109,3 +116,6 @@ open then coppeliasim app and load the scenes given in above repository link
 
 * [SRA VJTI](http://sra.vjti.info/) Eklavya 2020 
 
+## License
+
+* this is the [License](/LICENSE) for project
