@@ -115,6 +115,7 @@ youtube link : <https://youtu.be/F3ynhaH-cjE>
 ## Acknowledgements and Resources
 
 * [SRA VJTI](http://sra.vjti.info/) Eklavya 2020 
+* [REPORT](/micromouse simulation report.pdf)
 
 ## License
 
